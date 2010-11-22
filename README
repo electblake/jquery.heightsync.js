@@ -1,5 +1,3 @@
-<h1>jQuery Height Sync</h1>
-
-<h2>It will automatically figure out which element is taller and sync the other element to match.</h2>
+jQuery Height Sync - It will automatically figure out which element is taller and sync the other element to match.
 
 Usage: $('#element1').heightsync('#element2',{buffer:10});
